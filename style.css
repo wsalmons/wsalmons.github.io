@@ -1,5 +1,7 @@
 body {
 	background-image: linear-gradient(to bottom, #71c7ec, #5fbce6, #4cb0df, #36a5d9, #189ad3);
+	margin-left: 460px;
+	margin-right: 400px;
 }
 
 h1 {
@@ -11,6 +13,7 @@ h1 {
 	line-height: 28px;
 	color: white;
 	text-shadow: 2px 1px #7f7f7f;
+
 }
 
 h2 {
@@ -22,6 +25,7 @@ h2 {
 	line-height: 28px;
 	color: white;
 	text-shadow: 2px 1px #7f7f7f;
+	text-decoration: underline;
 }
 
 h3 {
@@ -33,6 +37,7 @@ h3 {
 	line-height: 28px;
 	color: white;
 	text-shadow: 2px 1px #7f7f7f;
+	text-decoration: underline;
 }
 
 p {
@@ -43,6 +48,7 @@ p {
 	font-weight: 400;
 	line-height: 25px;
 	color: white;
+	margin-left: 30px;
 }
 
 li {
