@@ -67,6 +67,21 @@ li {
 ;
 }
 
+a {
+	font-family: "Playfair Display";
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 25px;
+	color: white;
+	margin-left: 30px;
+}
+
+.linkedIn {
+	height: 10%;
+	width: 10%;
+}
 
 
 
