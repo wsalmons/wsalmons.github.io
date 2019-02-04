@@ -109,6 +109,10 @@ a {
 }
 
 #resume-dl {
+	display: block;
+	margin-left: 50%;
+	margin-right: 50%;
+	overflow: visible;
 	text-align: center;
 	color: black;
 }
