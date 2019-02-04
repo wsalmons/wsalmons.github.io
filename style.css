@@ -85,17 +85,17 @@ a {
 
 .id-chart {
 	display: inline-block;
-	max-width: 100em;
+	max-width: 50em;
 }
 
 .vis-speaks {
 	display: inline-block;
-	max-width: 100em
+	max-width: 50em
 }
 
 .resume {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 200em;
+	max-width: 50%;
 }
