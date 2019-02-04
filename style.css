@@ -107,3 +107,8 @@ a {
 .week-3-assignment-titles {
 	text-align: center;
 }
+
+#resume-dl {
+	margin-left: auto;
+	margin-right: auto;
+}
