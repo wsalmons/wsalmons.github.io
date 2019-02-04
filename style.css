@@ -84,18 +84,22 @@ a {
 }
 
 .id-chart {
-	display: inline-block;
-	max-width: 50em;
+	display: block;
+	max-width: 40em;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .vis-speaks {
-	display: inline-block;
-	max-width: 50em
+	display: block;
+	max-width: 40em;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .resume {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 50%;
+	max-width: 40em;
 }
