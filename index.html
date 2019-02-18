@@ -22,7 +22,13 @@
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 		<!-- MDB core JavaScript -->
 		<script type="text/javascript" src="js/mdb.js"></script>
-		<script>window.addEventListener("hashchange", function() { scrollBy(0, -100) })</script>
+		<script>
+			if ($(window).width() > 768) {
+				window.addEventListener("hashchange", function() { scrollBy(0, -70) });
+		} else if ($(window).width() < 768) {
+				window.addEventListener("hashchange", function() { scrollBy(0, -100) });
+			}
+		</script>
 	</head>
 		<body>
 				<!--Navbar -->
